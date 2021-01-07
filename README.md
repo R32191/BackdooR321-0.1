@@ -19,8 +19,7 @@ It's developed by utilizing Socket, Windows Programming and It's designed to sto
 
 + ```git clone https://github.com/R32191/BackdooR321-0.1.git```
 + ```cd BackdooR321-0.1.git```
-+ ```python -m pip install -r requirements.txt```
-+ ```start setup.py```
++ ```python setup.py```
 
 Reqirements : 
 
