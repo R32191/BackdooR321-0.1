@@ -62,3 +62,7 @@ Reqirements :
 * Setting Command List:
     1. set - setting screen
     2. set color [option] - set color
+
+# Warning
+* 본 프로그램은 오직 교육, 학습 목적으로만 사용해야하며 악용할시 발생하는 법적 책임은 책임지지 않습니다.
+* This program is for educational and learning purposes only, and we are not responsible for any legal liability in case of abuse.
