@@ -560,7 +560,6 @@ def get_argv():
 
         '''
         print(backdoor321_title)
-        print('[!]No Argv. ')
         print('[*]Run it by using default setting :')
         print('-[*]IP : 127.0.0.1')
         print('-[*]Port : 8180')
